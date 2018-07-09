@@ -9,5 +9,7 @@
 - [리믹스](https://remix.ethereum.org/): 스마트 컨트랙트 코드를 컴파일하고 배포하는 용
 - [이더스캔 랍스텐](https://ropsten.etherscan.io/): 컨트랙트 배포 및 트랜잭션 상태를 확인하기 위한 테스트 넷
 - [마이이더월렛](https://www.myetherwallet.com/): 배포된 컨트랙트를 사용해 보기 위한 용
--[미디엄](https://medium.com/@heuristicwave/iot-smartcontract-in-solidity-51d7b5f83428): 간단한 IoT 관련 솔리디티 코드 가져오기 용. Heuristic Wave가 작성하였습니다.
+-[미디엄](https://medium.com/@heuristicwave/iot-smartcontract-in-solidity-51d7b5f83428): 간단한 IoT 관련 솔리디티 코드 가져오기 용. 
+
+Heuristic Wave가 작성하였습니다.
 코드에 수정이 있으니 1장의 코드를 참조하시길 바라겠습니다.
